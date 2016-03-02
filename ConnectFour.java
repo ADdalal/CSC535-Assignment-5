@@ -1,5 +1,4 @@
 
-import java.util.*;
 
 public class ConnectFour 
 {
@@ -8,7 +7,7 @@ public class ConnectFour
 	//this variable used to call the Game class
 		Game g = new Game();
 		g.Play();
-
-	}
+		//GameBoard2 board = new GameBoard2();
+	}	
 
 }
